@@ -1,5 +1,4 @@
 #include <string>
-
 std::string problemSolution3(float height, char S) {
     std::string result;
     if(S=='M') {
